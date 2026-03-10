@@ -21,4 +21,4 @@ while (choice != n):
 if (choice == n):
     print("\nBingo! You guessed it.")
 
-print(f"It took you {tries} tries.")
+print(f"It took you {tries} tries.\n")
